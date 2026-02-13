@@ -1,7 +1,7 @@
 ---
 description: Asking agent
 mode: primary
-model: zai-coding-plan/glm-4.7 #cerebras/zai-glm-4.7 #anthropic/claude-sonnet-4-5 #opencode/kimi-k2
+model: zai-coding-plan/glm-5 #4.7 #cerebras/zai-glm-4.7 #anthropic/claude-sonnet-4-5 #opencode/kimi-k2
 temperature: 0.6
 tools:
   write: false
